@@ -1,5 +1,5 @@
 ![logo](https://github.com/AIMAN10001/AIMAN10001/blob/main/Black%20Geometric%20Marketing%20Expert%20LinkedIn%20Banner%20(4).png)
-<h1 align="center">Hi 👋, I'm Aiman Ibn Ubayd</h1>
+<h1 align="center">Hi 👋, I'm Aiman </h1>
 <h3 align="center">Transforming Code into Cryptographic Art: Blockchain and Web Alchemist</h3>
 
 <img align="right" alt="coding" width="400px" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
