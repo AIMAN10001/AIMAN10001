@@ -1,4 +1,4 @@
-![logo](https://github.com/AIMAN10001/AIMAN10001/blob/main/Black%20Geometric%20Marketing%20Expert%20LinkedIn%20Banner%20(4).png)
+![logo](https://github.com/AIMAN10001/AIMAN10001/blob/main/github-banner.png)
 <h1 align="center">Hi 👋, I'm Aiman </h1>
 <h3 align="center">Transforming Code into Cryptographic Art: Blockchain and Web Alchemist</h3>
 
