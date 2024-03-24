@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Groundbreaking projects that merge the power of blockchain innovation with seamless web experiences, paving the way for the future of decentralized applications and immersive online ecosystems**
 
-- 👨‍💻 All of my projects are available at [Portfolio]([https://www.linkedin.com/in/aiman-ibn-ubayd-851216291/](https://portfolio-website1-ten.vercel.app/))
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-website1-ten.vercel.app/)
 
 - 💬 Ask me about **Decentralized Application**
 
