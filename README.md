@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Decentralized Application**
 
-- 📄 Know about my experiences [ExperExperience ](https://portfolio-website1-ten.vercel.app/)
+- 📄 Know about my [Experiences ](https://portfolio-website1-ten.vercel.app/)
 
 - ⚡ Fun fact **I like to watch Anime in free time**
 
