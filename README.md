@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400px" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
-<p align="left"> <a href="https://twitter.com/aiman" target="blank"><img src="https://img.shields.io/twitter/follow/aiman?logo=twitter&style=for-the-badge" alt="aiman" /></a> </p>
+
 
 - 🌱 I’m currently Studying **B.SC. in Computer science & engineering**
 
@@ -18,14 +18,10 @@
 
 - ⚡ Fun fact **I like to watch Anime in free time**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Explore more:</h3>
 <p align="center">
   <a href="https://dev.to/aiman10" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
-  <a href="https://x.com/AIMAN8449039829?t=laKWtYGOXQvtcWWjbzom1Q&s=09" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/aiman-ibn-ubayd-851216291/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/23237163/aiman-ibn-ubayd" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100083173247930" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/aimanibnubayd?igsh=aHo1dnkwZ2Jqc3Nl" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://dribbble.com/AIMAN10?onboarding=true&designer=true" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" /></a>
   <a href="https://www.behance.net/aimanibnubayd" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" /></a>
 </p>
