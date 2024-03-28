@@ -1,4 +1,4 @@
-![logo](https://github.com/AIMAN10001/AIMAN10001/blob/main/github-banner.png)
+![logo](https://github.com/AIMAN10001/AIMAN10001/blob/main/Github%20Banner%20update%20for%20fiverr.png)
 <h1 align="center">Hi 👋, I'm Aiman </h1>
 <h3 align="center">Transforming Code into Cryptographic Art: Blockchain and Web Alchemist</h3>
 
