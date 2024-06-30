@@ -15,9 +15,6 @@ I have expertise in Ethereum and Solana blockchain development. I specialize in:
 
 I'm currently pursuing a **B.Sc. in Computer Science & Engineering** and continuously exploring the intersection of blockchain and web technologies.
 
-
-
-
 ---
 
 <p align="center">
