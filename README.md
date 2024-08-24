@@ -1,4 +1,4 @@
-![logo](https://github.com/AIMAN10001/AIMAN10001/blob/main/Github%20Banner%20update%20for%20fiverr.png)
+![logo](https://github.com/AIMAN10001/AIMAN10001/blob/main/GitHub%20.png)
 
 <h1 align="center">Hi 👋, I'm Aiman </h1>
 <h2 align="center">A software engineer specializing in Web3</h2>
