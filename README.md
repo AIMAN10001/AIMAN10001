@@ -1,4 +1,4 @@
-![logo](https://github.com/AIMAN10001/AIMAN10001/blob/main/GitHub%20%20(1).png)
+![logo](https://github.com/AIMAN10001/AIMAN10001/blob/main/GitHub%20.png)
 
 <h1 align="center">Hi 👋, I'm Aiman </h1>
 <h2 align="center">A software engineer specializing in Web3</h2>
@@ -43,6 +43,7 @@ I'm currently pursuing a **B.Sc. in Computer Science & Engineering** and continu
 
 ---
 
+
 ### Tech Stack & Tools
 
 #### Blockchain Development:
@@ -59,11 +60,9 @@ I'm currently pursuing a **B.Sc. in Computer Science & Engineering** and continu
   <a href="https://getfoundry.sh/" target="_blank" rel="noopener noreferrer">
     <img src="https://user-images.githubusercontent.com/7597528/182243063-21d9023c-fd2c-4c38-b6f7-1d9a63fd760d.png" alt="Foundry" width="40" height="40"/>
   </a>
-  <a href="https://trufflesuite.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://seeklogo.com/images/T/truffle-logo-35745438E1-seeklogo.com.png" alt="Truffle" width="40" height="40"/>
-  </a>
-  <a href="https://remix.ethereum.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://seeklogo.com/images/R/remix-ide-logo-DED9E3C3D9-seeklogo.com.png" alt="Remix IDE" width="40" height="40"/>
+ 
+  <a href="https://remix.ethereum.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <span style="font-weight: bold; color: #f0ad4e; font-size: 1.2em; background-color: #282C34; padding: 2px 6px; border-radius: 4px;">Remix IDE</span>
   </a>
   <a href="https://solana.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png" alt="Solana" width="40" height="40"/>
@@ -74,13 +73,28 @@ I'm currently pursuing a **B.Sc. in Computer Science & Engineering** and continu
   <a href="https://project-serum.github.io/anchor/" target="_blank" rel="noopener noreferrer">
     <img src="https://seeklogo.com/images/A/anchor-logo-9E5047D2A5-seeklogo.com.png" alt="Anchor" width="40" height="40"/>
   </a>
-  <a href="https://solpg.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://solpg.io/icons/apple-touch-icon.png" alt="Solana Playground" width="40" height="40"/>
+  <a href="https://solpg.io/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <span style="font-weight: bold; color: #1E90FF; font-size: 1.2em; background-color: #282C34; padding: 2px 6px; border-radius: 4px;">Solana Playground</span>
   </a>
   <a href="https://ton.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/ton.png" alt="TON Blockchain" width="40" height="40"/>
+    <img src="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=033" alt="TON Blockchain" width="40" height="40"/>
+  </a>
+  <a href="https://arbitrum.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cryptologos.cc/logos/arbitrum-arb-logo.png" alt="Arbitrum" width="40" height="40"/>
+  </a>
+  <a href="https://mantlenetwork.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cryptologos.cc/logos/mantle-mnt-logo.png?v=033" alt="Mantle" width="40" height="40"/>
+  </a>
+  <a href="https://sui.io/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cryptologos.cc/logos/sui-sui-logo.png?v=033" alt="Sui" width="40" height="40"/>
+  </a>
+  <a href="https://vara.io/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cryptologos.cc/logos/sui-sui-logo.png?v=033" alt="Sui" width="40" height="40"/>
   </a>
 </p>
+
+#### Smart Contract Auditing:
+<p align="left"> <a href="https://slither.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/crytic/slither/master/docs/logo/slither-white.png" alt="Slither" width="40" height="40"/> </a> <a href="https://mythx.io/" target="_blank" rel="noopener noreferrer"> <img src="https://www.mythx.io/static/media/logo.f5a3e8b4.svg" alt="MythX" width="40" height="40"/> </a> <a href="https://github.com/crytic/echidna" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/crytic/echidna/raw/master/echidna.png" alt="Echidna" width="40" height="40"/> </a> <a href="https://consensys.github.io/surya/" target="_blank" rel="noopener noreferrer"> <img src="https://consensys.github.io/surya/img/surya.png" alt="Surya" width="40" height="40"/> </a> <a href="https://remix.ethereum.org/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/ethereum/remix-project/raw/master/libs/remix-ui/remix-logo/remix-logo.svg" alt="Remix" width="40" height="40"/> </a> </p>
 
 #### Frontend Development:
 <p align="left">
@@ -121,53 +135,62 @@ I'm currently pursuing a **B.Sc. in Computer Science & Engineering** and continu
   <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" width="40" height="40"/>
+  <a href="https://postman.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
 </p>
 
-#### DevOps & Tools:
+#### DevOps & Cloud:
 <p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
+  <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://docker.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://seeklogo.com/images/V/vercel-logo-0E6C50240F-seeklogo.com.png" alt="Vercel" width="40" height="40"/>
+  </a>
+</p>
+
+#### Tools & Platforms:
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
-  <a href="https://www.trufflesuite.com/ganache" target="_blank" rel="noopener noreferrer">
-    <img src="https://seeklogo.com/images/G/ganache-logo-03A14B09E2-seeklogo.com.png" alt="Ganache" width="40" height="40"/>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer">
+    <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" alt="IntelliJ IDEA" width="40" height="40"/>
   </a>
-</p>
-
-#### Design & Prototyping:
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://webflow.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/webflow.png" alt="Webflow" width="40" height="40"/>
-  </a>
-  <a href="https://wordpress.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
   </a>
 </p>
 
 ---
-
-
-
 ### GitHub Stats
 
 <p align="center">
